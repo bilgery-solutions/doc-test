@@ -22,14 +22,14 @@
       "enable": true,
       "action": "#"
     },
-    "copyright": "Designed and Developed by <a class=\"text-primary hover:underline no-underline\" href=\"https://themefisher.com\" target=\"_blank\" rel=\"noopener\" aria-label=\"Themefisher\">Themefisher</a> Copyright &copy; 2025."
+    "copyright": "Made with love in Germany."
   },
 
   "navigation_button": {
     "enable": true,
-    "label": "Get Started",
+    "label": "Jetzt loslegen",
     "translations": {
-      "fr": "Erste Schritte"
+      "en": "Get Started"
     },
     "link": "/getting-started/introduction/overview/"
   }
