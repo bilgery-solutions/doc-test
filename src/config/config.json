@@ -1,6 +1,10 @@
 {
   "site": {
-    "title": "DocKit",
+    "title": "AI Docs Test",
+    "description": "A test deployed to Netlify",
+    "author": "Dominik B",
+    "email": "dominik-bilgery@t-online.de",
+    "base_url": "https://ai-docs-poc.netlify.app"
     "logo": "/src/assets/logo-light.svg",
     "logo_darkmode": "/src/assets/logo-dark.svg",
     "logo_width": "127",
